@@ -29,7 +29,7 @@
 </div>
   
   <br>
-  <img align="right" src="https://cdn.wallpapersafari.com/83/44/FOnoH8.gif">
+  <img style="position:absolute;" align="right" src="https://cdn.wallpapersafari.com/83/44/FOnoH8.gif">
   <br>
   
  <h3 align="center"> Languages and tools i work witdh: </h3>

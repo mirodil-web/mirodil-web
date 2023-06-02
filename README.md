@@ -11,7 +11,7 @@
     <img style="background-color: black;" src="https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo-thumbnail.png" width="40">
   </a>
   <a href="https://fackebook.com/tolamirzayev_077/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" width="85">
   </a>
   <a href="https://twitter.com/MirodilTo/">
     <img src="https://w7.pngwing.com/pngs/196/156/png-transparent-twitter-3d-twitter-twitter-logo-3d-twitter-logo-social-media-logo-3d-icon-thumbnail.png" width="40">

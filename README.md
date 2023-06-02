@@ -5,7 +5,7 @@
 
  - 📍 &nbsp; Current location: Andijon, Uzbekistan. <br>
  - 📩 &nbsp; Ask me about aniything, I am happy to help <br>
- - 📨 &nbsp; How to reach me: [@tolamirzayev_077] (https://instagram.com/tolamirzayev_077)
+ - 📨 &nbsp; How to reach me: [https://instagram.com/tolamirzayev_077]
 
 <hr>
 <h3 align="center"> My social networks for reference </h3>

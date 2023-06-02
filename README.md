@@ -17,8 +17,12 @@
     <img src="https://www.techonia.com/wp-content/uploads/2011/06/twitter-logo.jpg" width="90">
   </a>
   <a href="https://instagram.com/tolamirzayev_077/">
-    <img src="https://www.theexaminernews.com/examiner-news/wp-content/uploads/2021/09/instagram-logo-name-scaled.jpg" width="90">
+    <img src="https://www.theexaminernews.com/examiner-news/wp-content/uploads/2021/09/instagram-logo-name-scaled.jpg" width="85">
   </a>
+   <a href="https://www.linkedin.com/in/mirodil-to-lamirzayev-608b93276/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="85">
+  </a>
+  
   
   
   ### Languages and lools i work witdh:

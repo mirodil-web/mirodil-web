@@ -19,8 +19,8 @@
   
   
   ### languages and lools i work witdh:
-  <code><img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"></code>
-<code><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png"></code>
-<code><img src=""></code>
-<code><img src=""></code>
-<code><img src=""></code>
+  <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"></code>
+<code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png"></code>
+<code><img width="50" src=""></code>
+<code><img width="50" src=""></code>
+<code><img width="50" src=""></code>

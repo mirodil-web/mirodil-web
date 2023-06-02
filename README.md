@@ -8,7 +8,7 @@
 ### Social networks for reference:
 
 <a href="https://t.me/tolamirzayev_077/">
-    <img src="https://www.linksmedicus.com.br/wp-content/uploads/2020/08/telegram-icon.png" width="50">
+    <img src="https://www.linksmedicus.com.br/wp-content/uploads/2020/08/telegram-icon.png" width="90">
   </a>
   <a href="https://fackebook.com/tolamirzayev_077/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" width="90">

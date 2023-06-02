@@ -2,9 +2,9 @@
 <hr>
 
 <h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
-<h2 align="center">I'm Frontend developer 👩🏻‍💻</h2>
+<h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>
 
-<h3 align="center"> Social networks for reference: </h3>
+<h4 align="center"> Social networks for reference: </h4>
 
 <a href="https://t.me/tolamirzayev_077/">
     <img src="https://www.linksmedicus.com.br/wp-content/uploads/2020/08/telegram-icon.png" width="110">
@@ -25,7 +25,7 @@
   <br>
   <br>
   
- <h3 align="center"> Languages and tools i work witdh: </h3>
+ <h4 align="center"> Languages and tools i work witdh: </h4>
   
  <code><img style="border: 1px white solid;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>

@@ -17,7 +17,7 @@
     <img src="https://www.techonia.com/wp-content/uploads/2011/06/twitter-logo.jpg" width="90">
   </a>
   <a href="https://instagram.com/tolamirzayev_077/">
-    <img src="https://www.downing-conferences-cambridge.co.uk/sites/default/files/instagram%20logo.jpg" width="90">
+    <img src="https://thumbs.dreamstime.com/z/instagram-141049465.jpg" width="90">
   </a>
   
   

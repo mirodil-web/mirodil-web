@@ -33,7 +33,7 @@
   <br>
   <br>
  <h3 align="center"> Languages and tools i work witdh </h3>
- 
+  <br>
   <div align="center">
  <code><img style="border: 1px white solid;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>___
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>___

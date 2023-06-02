@@ -21,6 +21,6 @@
   ### languages and lools i work witdh:
   <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"></code>
 <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png"></code>
-<code><img width="50" src=""></code>
+<code><img width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968680.png"></code>
 <code><img width="50" src=""></code>
 <code><img width="50" src=""></code>

@@ -8,7 +8,7 @@
 ### Social networks for reference:
 
 <a href="https://t.me/tolamirzayev_077/" style="background-color: black;">
-    <img style="https://p.kindpng.com/picc/s/743-7436165_telegram-hd-png-download.png" width="90">
+    <img style="https://image.pngaaa.com/262/1252262-small.png" width="90">
   </a>
   <a href="https://fackebook.com/tolamirzayev_077/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" width="90">

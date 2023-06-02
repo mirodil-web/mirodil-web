@@ -1,5 +1,6 @@
  <img width="100%" height="288" src="https://i0.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?fit=1200%2C800&ssl=">
 <hr>
+<div style="background-image: url(https://cdn.wallpapersafari.com/83/44/FOnoH8.gif);">
 
 <h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
 <h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>
@@ -39,6 +40,7 @@
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></code>
 <code><img style="background-color: white;" width="50" src="https://en.logodownload.org/wp-content/uploads/2022/04/javascript-logo-41.png"></code>
+ </div>
  </div>
 
 

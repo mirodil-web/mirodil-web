@@ -29,7 +29,8 @@
 </div>
   
   <br>
-  <img align="right" width="200" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
+  <img align="left" width="350" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+  <img align="right" width="350" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
   <br>
   
  <h3 align="center"> Languages and tools i work witdh: </h3>

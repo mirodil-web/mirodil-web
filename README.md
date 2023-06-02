@@ -20,7 +20,7 @@
     <img src="https://www.theexaminernews.com/examiner-news/wp-content/uploads/2021/09/instagram-logo-name-scaled.jpg" width="85">
   </a>
    <a href="https://www.linkedin.com/in/mirodil-to-lamirzayev-608b93276/">
-    <img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" width="85">
+    <img src="https://cdn.vectorstock.com/i/preview-1x/38/77/popular-social-network-linkedin-vector-37693877.jpg" width="85">
   </a>
   
   

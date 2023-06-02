@@ -1,14 +1,8 @@
-<style>
-    .div{
-        text-align: center;
-    }
-</style>
 
-  
       <img width="100%" height="288" src="https://i0.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?fit=1200%2C800&ssl=1">
 
 
-<h2 class="div"> Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h2>
+<h2 style="text-align: center"> Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h2>
 
 ### Social networks for reference:
 

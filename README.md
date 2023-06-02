@@ -3,8 +3,8 @@
 <h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
 <h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>
 <p align="center">
- - 📍 &nbsp; Current location: Andijon, Uzbekistan.
- - 📩 &nbsp; Ask me about aniything, I am happy to help
+ - 📍 &nbsp; Current location: Andijon, Uzbekistan. <br>
+ - 📩 &nbsp; Ask me about aniything, I am happy to help <br>
  - 📨 &nbsp; How to reach me: [@tolamirzayev_077] (https://instagram.com/tolamirzayev_077)
 </p>
 <hr>

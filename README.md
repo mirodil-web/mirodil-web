@@ -16,3 +16,11 @@
   <a href="https://instagram.com/tolamirzayev_077/">
     <img src="https://w7.pngwing.com/pngs/408/296/png-transparent-app-b-w-instagram-logo-media-popular-social-2018-social-media-black-and-white-logos-icon.png" width="30">
   </a>
+  
+  
+  ### languages and lools i work witdh:
+  <code><img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png"></code>
+<code><img src=""></code>
+<code><img src=""></code>
+<code><img src=""></code>

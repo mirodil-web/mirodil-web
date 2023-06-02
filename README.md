@@ -23,4 +23,4 @@
 <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png"></code>
 <code><img width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968680.png"></code>
 <code><img width="50" src="https://www.loopple.com/img/tailwind-logo.png"></code>
-<code><img style="background-color: white;" width="50" src="https://tlt.russ-na-volge.ru/upload/iblock/724/7241c24b6139df38493787eca1379359.jpg"></code>
+<code><img style="background-color: white;" width="50" src="https://en.logodownload.org/wp-content/uploads/2022/04/javascript-logo-41.png"></code>

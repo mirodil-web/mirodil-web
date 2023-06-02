@@ -4,7 +4,7 @@
 <h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>
 <p align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem eos incidunt, impedit pariatur blanditiis facere quas neque aut eius nulla corporis est consequuntur odio illo cum minima saepe! Repellat, nihil.</p>
 <hr>
-<h3 align="center"> Social networks for reference </h3>
+<h3 align="center"> My social networks for reference </h3>
  <br>
 <div align="center">
  <a href="https://t.me/tolamirzayev_077/">

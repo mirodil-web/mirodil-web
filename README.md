@@ -2,7 +2,7 @@
 
 
 <h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
-<strong>I'm Frontend developer</strong>
+<strong>I'm Frontend developer 👩🏻‍💻</strong>
 
 ### Social networks for reference:
 <a href="https://t.me/tolamirzayev_077/">

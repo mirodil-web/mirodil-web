@@ -6,7 +6,7 @@
 <p align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem eos incidunt, impedit pariatur blanditiis facere quas neque aut eius nulla corporis est consequuntur odio illo cum minima saepe! Repellat, nihil.</p>
 
 ### ________________________________________________________________________________________________________________
-<h3 align="center"> Social networks for reference: </h3>
+<h3 align="center"> Social networks for reference </h3>
 
 <div align="center">
  <a href="https://t.me/tolamirzayev_077/">
@@ -27,14 +27,13 @@
     <img src="https://cdn.vectorstock.com/i/preview-1x/38/77/popular-social-network-linkedin-vector-37693877.jpg" width="95">
   </a>
 </div>
-  
-  
-  <img align="left" width="350" src="https://media.licdn.com/dms/image/D4D22AQHaEvrVjf0tsA/feedshare-shrink_800/0/1670686189586?e=2147483647&v=beta&t=dZRUmRHcwFdLp7EOMuIlE4OkwgCv1UH1dyc0pJHxPG0">
   <img align="right" width="350" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
+  <img align="left" width="350" src="https://media.licdn.com/dms/image/D4D22AQHaEvrVjf0tsA/feedshare-shrink_800/0/1670686189586?e=2147483647&v=beta&t=dZRUmRHcwFdLp7EOMuIlE4OkwgCv1UH1dyc0pJHxPG0">
+  
   <br>
   <br>
   
- <h3 align="center"> Languages and tools i work witdh: </h3>
+ <h3 align="center"> Languages and tools i work witdh </h3>
  
   <div align="center">
  <code><img style="border: 1px white solid;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>

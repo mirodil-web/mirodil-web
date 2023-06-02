@@ -17,7 +17,7 @@
     <img src="https://www.techonia.com/wp-content/uploads/2011/06/twitter-logo.jpg" width="90">
   </a>
   <a href="https://instagram.com/tolamirzayev_077/">
-    <img src="https://www.citypng.com/public/uploads/preview/-51609194800nukkiwbojt.png" width="90">
+    <img src="https://www.citypng.com/public/uploads/preview/-51609194800nukkiwbojt.png" width="120">
   </a>
   
   

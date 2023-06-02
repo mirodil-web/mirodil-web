@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Mirodil To'lamirzayev <img width="22" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif">
+- 👋 Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif">
 
 <h2>Social networks for reference.</h2>
 

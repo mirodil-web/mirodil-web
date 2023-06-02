@@ -8,7 +8,8 @@
 ### __________________________________________________________________________________________________________________________
 <h4 align="center"> Social networks for reference: </h4>
 
-<a href="https://t.me/tolamirzayev_077/">
+<div align="center">
+ <a href="https://t.me/tolamirzayev_077/">
     <img src="https://www.linksmedicus.com.br/wp-content/uploads/2020/08/telegram-icon.png" width="110">
   </a>
   <a href="https://fackebook.com/tolamirzayev_077/">
@@ -23,6 +24,7 @@
    <a href="https://www.linkedin.com/in/mirodil-to-lamirzayev-608b93276/">
     <img src="https://cdn.vectorstock.com/i/preview-1x/38/77/popular-social-network-linkedin-vector-37693877.jpg" width="95">
   </a>
+</div>
   
   <br>
   <br>

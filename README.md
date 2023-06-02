@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif">
+ Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif">
 
-<h2>Social networks for reference.</h2>
+### Social networks for reference:
 
 <a href="https://t.me/tolamirzayev_077/" style="background-color: black;">
     <img style="background-color: black;" src="https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo-thumbnail.png" width="30">

@@ -1,12 +1,12 @@
  <img width="100%" height="333" src="https://www.horizont.com.hr/posao/frontend-developer.gif">
 
 <h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
-<h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>
-<p align="center">
+<h3 >I'm Frontend developer 👩🏻‍💻</h3>
+
  - 📍 &nbsp; Current location: Andijon, Uzbekistan. <br>
  - 📩 &nbsp; Ask me about aniything, I am happy to help <br>
  - 📨 &nbsp; How to reach me: [@tolamirzayev_077] (https://instagram.com/tolamirzayev_077)
-</p>
+
 <hr>
 <h3 align="center"> My social networks for reference </h3>
  <br>

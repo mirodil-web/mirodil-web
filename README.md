@@ -1,5 +1,4 @@
  <img width="100%" height="288" src="https://i0.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?fit=1200%2C800&ssl=">
-<hr>
 
 <h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
 <h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>

@@ -1,4 +1,5 @@
-<img width="100%" height="277" src="https://i0.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?fit=1200%2C800&ssl=1">
+<img width="100%" height="277" src="https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c">
+<!-- https://i0.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?fit=1200%2C800&ssl=1 -->
 
 <h2> Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h2>
 

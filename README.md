@@ -17,7 +17,7 @@
     <img src="https://www.techonia.com/wp-content/uploads/2011/06/twitter-logo.jpg" width="90">
   </a>
   <a href="https://instagram.com/tolamirzayev_077/">
-    <img src="https://thumbs.dreamstime.com/z/print-204012274.jpg" width="90">
+    <img src="https://www.theexaminernews.com/examiner-news/wp-content/uploads/2021/09/instagram-logo-name-scaled.jpg" width="90">
   </a>
   
   

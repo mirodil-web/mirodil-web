@@ -22,7 +22,7 @@
     <img src="https://cdn.vectorstock.com/i/preview-1x/38/77/popular-social-network-linkedin-vector-37693877.jpg" width="95">
   </a>
   
-  
+  <br>
   
   ### Languages and tools i work witdh: 
   <br>

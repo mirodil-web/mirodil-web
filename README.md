@@ -22,5 +22,5 @@
   <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"></code>
 <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png"></code>
 <code><img width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968680.png"></code>
-<code><img width="50" src=""></code>
-<code><img width="50" src=""></code>
+<code><img width="50" src="https://www.loopple.com/img/tailwind-logo.png"></code>
+<code><img width="50" src="https://www.pngkit.com/png/detail/80-803539_javascript-black-and-white-logo.png"></code>

@@ -26,10 +26,10 @@
     <img src="https://cdn.vectorstock.com/i/preview-1x/38/77/popular-social-network-linkedin-vector-37693877.jpg" width="95">
   </a>
 </div>
-  <img align="right" width="250" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">___________________________________
+  <img align="right" width="250" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
   <img align="left" width="250" src="https://media.licdn.com/dms/image/D4D22AQHaEvrVjf0tsA/feedshare-shrink_800/0/1670686189586?e=2147483647&v=beta&t=dZRUmRHcwFdLp7EOMuIlE4OkwgCv1UH1dyc0pJHxPG0">
   <br>
-  <br>
+  
   <br>
   <br>
  <h3 align="center"> Languages and tools i work witdh </h3>

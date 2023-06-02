@@ -17,7 +17,7 @@
     <img src="https://www.techonia.com/wp-content/uploads/2011/06/twitter-logo.jpg" width="90">
   </a>
   <a href="https://instagram.com/tolamirzayev_077/">
-    <img src="https://www.citypng.com/public/uploads/preview/-51609194800nukkiwbojt.png" width="120">
+    <img src="https://image.telanganatoday.com/wp-content/uploads/2022/05/Instagram-users-irked-with-the-new-update_V_jpg--442x260-4g.webp?sw=412&dsz=442x260&iw=412&p=false&r=2.625" width="120">
   </a>
   
   

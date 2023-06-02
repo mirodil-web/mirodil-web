@@ -6,7 +6,7 @@
 <p align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem eos incidunt, impedit pariatur blanditiis facere quas neque aut eius nulla corporis est consequuntur odio illo cum minima saepe! Repellat, nihil.</p>
 <hr>
 <h3 align="center"> Social networks for reference </h3>
-
+ <br>
 <div align="center">
  <a href="https://t.me/tolamirzayev_077/">
     <img src="https://www.linksmedicus.com.br/wp-content/uploads/2020/08/telegram-icon.png" width="110">
@@ -29,7 +29,7 @@
   <img align="right" width="250" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
   <img align="left" width="250" src="https://media.licdn.com/dms/image/D4D22AQHaEvrVjf0tsA/feedshare-shrink_800/0/1670686189586?e=2147483647&v=beta&t=dZRUmRHcwFdLp7EOMuIlE4OkwgCv1UH1dyc0pJHxPG0">
   <br>
-  
+  <br>
   <br>
   <br>
  <h3 align="center"> Languages and tools i work witdh </h3>

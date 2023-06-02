@@ -5,7 +5,7 @@
 <h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>
 <p align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem eos incidunt, impedit pariatur blanditiis facere quas neque aut eius nulla corporis est consequuntur odio illo cum minima saepe! Repellat, nihil.</p>
 
-### ________________________________________________________________________________________________________
+### ________________________________________________________________________________________________________________________________
 
 <h4 align="center"> Social networks for reference: </h4>
 

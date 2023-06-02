@@ -2,6 +2,8 @@
 
 
 <h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
+<br>
+<strong>Frontend developer</strong>
 
 ### Social networks for reference:
 

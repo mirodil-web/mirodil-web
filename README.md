@@ -2,11 +2,10 @@
 
 
 <h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="25" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
-<br>
 <strong>Frontend developer</strong>
 
 ### Social networks for reference:
-
+<br>
 <a href="https://t.me/tolamirzayev_077/">
     <img src="https://www.linksmedicus.com.br/wp-content/uploads/2020/08/telegram-icon.png" width="110">
   </a>
@@ -25,8 +24,9 @@
   
   
   
-  ### Languages and lools i work witdh:
-  <code><img style="border: 1px white solid;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>
+  ### Languages and tools i work witdh: 
+  <br>
+ <code><img style="border: 1px white solid;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></code>

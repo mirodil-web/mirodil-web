@@ -5,7 +5,7 @@
 <h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>
 <p align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem eos incidunt, impedit pariatur blanditiis facere quas neque aut eius nulla corporis est consequuntur odio illo cum minima saepe! Repellat, nihil.</p>
 
-### __________________________________________________________________________________________________________________________
+### ___________________________________________________________________________________________________________________
 <h4 align="center"> Social networks for reference: </h4>
 
 <div align="center">
@@ -18,6 +18,7 @@
   <a href="https://twitter.com/MirodilTo/">
     <img src="https://www.techonia.com/wp-content/uploads/2011/06/twitter-logo.jpg" width="90">
   </a>
+ <br>
   <a href="https://instagram.com/tolamirzayev_077/">
     <img src="https://www.theexaminernews.com/examiner-news/wp-content/uploads/2021/09/instagram-logo-name-scaled.jpg" width="85">
   </a>

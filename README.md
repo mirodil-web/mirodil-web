@@ -11,7 +11,7 @@
     <img src="https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo-thumbnail.png" width="30">
   </a>
   <a href="https://twitter.com/MirodilTo/">
-    <img src="https://w7.pngwing.com/pngs/133/360/png-transparent-social-media-computer-icons-tulane-university-facebook-drawing-twitter-twitter-logo-blue-logo-computer-wallpaper-thumbnail.png" width="30">
+    <img src="https://w7.pngwing.com/pngs/196/156/png-transparent-twitter-3d-twitter-twitter-logo-3d-twitter-logo-social-media-logo-3d-icon-thumbnail.png" width="30">
   </a>
   <a href="https://instagram.com/tolamirzayev_077/">
     <img src="https://w7.pngwing.com/pngs/408/296/png-transparent-app-b-w-instagram-logo-media-popular-social-2018-social-media-black-and-white-logos-icon.png" width="30">

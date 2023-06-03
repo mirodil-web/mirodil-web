@@ -1,6 +1,6 @@
  <img width="100%" height="333" src="https://www.horizont.com.hr/posao/frontend-developer.gif">
 
-<h1  align="center"> Hi, I’m Mirodil To'lamirzayev <img width="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
+<h1  align="center"> Assalomu Alaykum, I’m Mirodil To'lamirzayev <img width="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
 <h3 align="center">I'm Frontend developer 👩🏻‍💻</h3>
 
  - 📍 &nbsp; Current location: Andijon, Uzbekistan. <br>

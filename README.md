@@ -1,4 +1,4 @@
- <img width="100%" height="310" src="https://js-about.netlify.app/img/Screenshot_2.png">
+ <img width="100%" height="280" src="https://js-about.netlify.app/img/Screenshot_2.png">
 
 <h1  align="center"> Assalomu Alaykum, I’m Mirodil To'lamirzayev <img width="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"></h1>
 <h3 align="center">I'm Frontend developer 🐱‍💻</h3>

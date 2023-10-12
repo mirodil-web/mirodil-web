@@ -8,9 +8,9 @@
  - 📨 &nbsp; How to reach me: [https://instagram.com/tolamirzayev_077]
 
 <hr>
-<h3 align="center"> My social networks for reference </h3>
+<h3 align="left"> My social networks for reference </h3>
  <br>
-<div align="center">
+<div align="left">
  <a href="https://t.me/tolamirzayev_077/">
     <img src="https://www.linksmedicus.com.br/wp-content/uploads/2020/08/telegram-icon.png" width="110">
   </a>_____
@@ -37,9 +37,9 @@
   <br>
 <video src="http://192.168.137.236:5500/HaBNnZRgLw.mp4" controls></video>
   
- <h3 align="center"> Languages and tools i work witdh </h3>
+ <h3 align="left"> Languages and tools i work witdh </h3>
   <br>
-  <div align="center">
+  <div align="left">
  <code><img style="border: 1px white solid;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>___
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>___
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>___

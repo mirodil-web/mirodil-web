@@ -13,10 +13,10 @@
 <div align="left">
  <a href="https://t.me/tolamirzayev_077/">
     <img src="https://www.linksmedicus.com.br/wp-content/uploads/2020/08/telegram-icon.png" width="110">
-  </a>_____
+  </a>_
   <a href="https://fackebook.com/tolamirzayev_077/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" width="90">
-  </a>_____
+  </a>_
   <a href="https://twitter.com/MirodilTo/">
     <img src="https://www.techonia.com/wp-content/uploads/2011/06/twitter-logo.jpg" width="90">
   </a>
@@ -24,15 +24,13 @@
  <br>
   <a href="https://instagram.com/tolamirzayev_077/">
     <img src="https://www.theexaminernews.com/examiner-news/wp-content/uploads/2021/09/instagram-logo-name-scaled.jpg" width="85">
-  </a>______
+  </a>_
    <a href="https://www.linkedin.com/in/mirodil-to-lamirzayev-608b93276/">
     <img src="https://cdn.vectorstock.com/i/preview-1x/38/77/popular-social-network-linkedin-vector-37693877.jpg" width="95">
   </a>
 </div>
 <!--   <img align="right" width="210" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif"> -->
 <!--   <img align="left" width="210" src="https://media.licdn.com/dms/image/D4D22AQHaEvrVjf0tsA/feedshare-shrink_800/0/1670686189586?e=2147483647&v=beta&t=dZRUmRHcwFdLp7EOMuIlE4OkwgCv1UH1dyc0pJHxPG0"> -->
-  <br>
-  <br>
   <br>
   <br>
 <video src="http://192.168.137.236:5500/HaBNnZRgLw.mp4" controls></video>

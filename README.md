@@ -41,7 +41,7 @@
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>___
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></code>___
 <code><img style="background-color: white;" width="50" src="https://en.logodownload.org/wp-content/uploads/2022/04/javascript-logo-41.png"></code>
-   <code><img style="background-color: white;" width="50" src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png"></code>
+   <code><img style="background-color: white;" width="50" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg"></code>
     <code><img style="background-color: white;" width="50" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></code>
    <code><img style="background-color: white;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png"></code>
    <code><img style="background-color: white;" width="50" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></code>

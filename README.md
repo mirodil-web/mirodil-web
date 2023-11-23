@@ -36,10 +36,10 @@
  <h3 align="left"> Languages and tools i work witdh </h3>
   <br>
   <div align="left">
- <code><img style="border: 1px white solid;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>___
-<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>___
-<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>___
-<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></code>___
+ <code><img style="border: 1px white solid;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></code>
 <code><img style="background-color: white;" width="50" src="https://en.logodownload.org/wp-content/uploads/2022/04/javascript-logo-41.png"></code>
    <code><img style="background-color: white;" width="50" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg"></code>
     <code><img style="background-color: white;" width="50" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></code>

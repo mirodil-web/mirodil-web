@@ -45,6 +45,7 @@
     <code><img style="background-color: white;" width="50" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></code>
    <code><img style="background-color: white;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png"></code>
    <code><img style="background-color: white;" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-sass-3629037-3030394.png"></code>
+   <code><img style="background-color: white;" width="50" src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55"></code>
  </div>
  </div>
 

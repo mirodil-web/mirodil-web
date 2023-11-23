@@ -44,7 +44,7 @@
    <code><img style="background-color: white;" width="50" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg"></code>
     <code><img style="background-color: white;" width="50" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></code>
    <code><img style="background-color: white;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png"></code>
-   <code><img style="background-color: white;" width="50" src="https://w7.pngwing.com/pngs/327/445/png-transparent-sass-original-logo-icon.png"></code>
+   <code><img style="background-color: white;" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-sass-3629037-3030394.png"></code>
  </div>
  </div>
 

@@ -42,6 +42,7 @@
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></code>___
 <code><img style="background-color: white;" width="50" src="https://en.logodownload.org/wp-content/uploads/2022/04/javascript-logo-41.png"></code>
    <code><img style="background-color: white;" width="50" src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png"></code>
+    <code><img style="background-color: white;" width="50" src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png"></code>
  </div>
  </div>
 

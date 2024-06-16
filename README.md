@@ -15,16 +15,16 @@
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-telegram-4703918-3915170.png?f=webp" width="110">
   </a>
   <a href="https://fackebook.com/tolamirzayev_077/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" width="90">
+    <img src="https://w7.pngwing.com/pngs/637/497/png-transparent-facebook-fb-social-media-logo-social-media-logo-socialmedia-3d-icon-thumbnail.png" width="90">
   </a>
   <a href="https://twitter.com/MirodilTo/">
-    <img src="https://www.techonia.com/wp-content/uploads/2011/06/twitter-logo.jpg" width="90">
+    <img src="https://ouch-cdn2.icons8.com/KO5GXNW70CGm4W3hsUirIkCdPU0UF6ZMXZz4EUGJcek/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjk1/LzQxYjNlOTJmLTk1/OGYtNGE0OC1hNDlj/LTlhNTQwNmM1ZWI4/MC5wbmc.png" width="90">
   </a>
   <a href="https://instagram.com/tolamirzayev_077/">
-    <img src="https://www.theexaminernews.com/examiner-news/wp-content/uploads/2021/09/instagram-logo-name-scaled.jpg" width="85">
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-2950129-2447888.png?f=webp" width="85">
   </a>
    <a href="https://www.linkedin.com/in/mirodil-to-lamirzayev-608b93276/">
-    <img src="https://cdn.vectorstock.com/i/preview-1x/38/77/popular-social-network-linkedin-vector-37693877.jpg" width="95">
+    <img src="https://static.vecteezy.com/system/resources/previews/029/129/381/original/linkedin-3d-icon-free-png.png" width="95">
   </a>
 </div>
 <br>

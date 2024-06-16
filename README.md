@@ -15,7 +15,7 @@
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-telegram-4703918-3915170.png?f=webp" width="110">
   </a>
   <a href="https://fackebook.com/tolamirzayev_077/">
-    <img src="https://w7.pngwing.com/pngs/637/497/png-transparent-facebook-fb-social-media-logo-social-media-logo-socialmedia-3d-icon-thumbnail.png" width="90">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F29129371-facebook-3d-icon&psig=AOvVaw0nSf4U-U1_ekU8rpAoqQUE&ust=1718646474715000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjIh5fX4IYDFQAAAAAdAAAAABAJ" width="90">
   </a>
   <a href="https://twitter.com/MirodilTo/">
     <img src="https://ouch-cdn2.icons8.com/KO5GXNW70CGm4W3hsUirIkCdPU0UF6ZMXZz4EUGJcek/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjk1/LzQxYjNlOTJmLTk1/OGYtNGE0OC1hNDlj/LTlhNTQwNmM1ZWI4/MC5wbmc.png" width="90">

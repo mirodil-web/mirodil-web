@@ -5,13 +5,13 @@
 
  - 📍 &nbsp; Current location: Andijon, Uzbekistan. <br>
  - 📩 &nbsp; Ask me about aniything, I am happy to help <br>
- - 📨 &nbsp; How to reach me: [https://t.me/mirodil_dev]
+ - 📨 &nbsp; How to reach me: [https://t.me/mirodil_web]
 
 <hr>
 <h3 align="left"> My social networks for reference </h3>
  <br>
 <div align="left">
- <a href="https://t.me/tolamirzayev_077/">
+ <a href="https://t.me/mirodil_web/">
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-telegram-4703918-3915170.png?f=webp" width="110">
   </a>
   <a href="https://fackebook.com/tolamirzayev_077/">
@@ -20,7 +20,7 @@
   <a href="https://twitter.com/MirodilTo/">
     <img src="https://ouch-cdn2.icons8.com/KO5GXNW70CGm4W3hsUirIkCdPU0UF6ZMXZz4EUGJcek/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjk1/LzQxYjNlOTJmLTk1/OGYtNGE0OC1hNDlj/LTlhNTQwNmM1ZWI4/MC5wbmc.png" width="90">
   </a>
-  <a href="https://instagram.com/tolamirzayev_077/">
+  <a href="https://instagram.com/mirodil_web/">
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-2950129-2447888.png?f=webp" width="85">
   </a>
    <a href="https://www.linkedin.com/in/mirodil-to-lamirzayev-608b93276/">

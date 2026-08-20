@@ -5,7 +5,7 @@
 
  - 📍 &nbsp; Current location: Andijon, Uzbekistan. <br>
  - 📩 &nbsp; Ask me about aniything, I am happy to help <br>
- - 📨 &nbsp; How to reach me: [https://t.me/mirodil_web]
+ - 📨 &nbsp; How to reach me: [https://t.me/tulanm1rzayev]
 
 <hr>
 <h3 align="left"> My social networks for reference </h3>
